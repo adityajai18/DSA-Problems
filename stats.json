@@ -1,11 +1,11 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 1,
     "hard": 0,
     "basic": 1
@@ -14,14 +14,16 @@
     "Codeforces_Watermelon": true,
     "Codeforces_Way_too_Long_Words": true,
     "Manual_Boy_Or_Girl": true,
-    "Codeforces_YES_or_YES": true
+    "Codeforces_YES_or_YES": true,
+    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true
   },
   "activityHistory": {
     "2026-09-24": 2,
     "2026-09-27": 1,
-    "2026-09-28": 1
+    "2026-09-28": 2
   },
   "todayProblems": [
-    "YES or YES"
+    "YES or YES",
+    "Maximum Nesting Depth of the Parentheses"
   ]
 }
