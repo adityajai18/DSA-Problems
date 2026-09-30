@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
-  "currentStreak": 2,
+  "totalSolved": 6,
+  "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-09-28",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 1
   },
@@ -15,15 +15,16 @@
     "Codeforces_Way_too_Long_Words": true,
     "Manual_Boy_Or_Girl": true,
     "Codeforces_YES_or_YES": true,
-    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true
+    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
+    "LeetCode_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings": true
   },
   "activityHistory": {
     "2026-09-24": 2,
     "2026-09-27": 1,
-    "2026-09-28": 2
+    "2026-09-28": 2,
+    "2026-10-01": 1
   },
   "todayProblems": [
-    "YES or YES",
-    "Maximum Nesting Depth of the Parentheses"
+    "Maximum Nesting Depth of Two Valid Parentheses Strings"
   ]
 }
