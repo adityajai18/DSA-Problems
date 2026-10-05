@@ -9,3 +9,4 @@
 | 7 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 01 Oct 2026 | 12:49 am |
 | 8 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 09:14 am |
 | 9 | [TEAM](./Codeforces/Medium/TEAM) | [Codeforces](https://codeforces.com/problemset/problem/231/A) | Medium | 04 Oct 2026 | 11:13 pm |
+| 10 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 05 Oct 2026 | 11:37 pm |
