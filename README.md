@@ -12,3 +12,4 @@
 | 10 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 05 Oct 2026 | 11:37 pm |
 | 11 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 09:24 pm |
 | 12 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 28 Oct 2026 | 09:38 pm |
+| 13 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 28 Oct 2026 | 09:47 pm |
