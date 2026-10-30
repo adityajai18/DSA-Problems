@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-10-28",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-30",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 1
   },
@@ -23,7 +23,8 @@
     "LeetCode_Score_of_Parentheses": true,
     "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
     "LeetCode_Find_All_Numbers_Disappeared_in_an_Array": true,
-    "LeetCode_Missing_Number": true
+    "LeetCode_Missing_Number": true,
+    "LeetCode_Add_Two_Numbers": true
   },
   "activityHistory": {
     "2026-09-24": 2,
@@ -33,10 +34,10 @@
     "2026-10-04": 1,
     "2026-10-05": 1,
     "2026-10-11": 1,
-    "2026-10-28": 2
+    "2026-10-28": 2,
+    "2026-10-30": 1
   },
   "todayProblems": [
-    "Find All Numbers Disappeared in an Array",
-    "Missing Number"
+    "Add Two Numbers"
   ]
 }
