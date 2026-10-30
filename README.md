@@ -15,3 +15,4 @@
 | 13 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 28 Oct 2026 | 09:47 pm |
 | 14 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 30 Oct 2026 | 08:07 pm |
 | 15 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 30 Oct 2026 | 09:43 pm |
+| 16 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 30 Oct 2026 | 10:33 pm |
